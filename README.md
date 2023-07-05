@@ -1,2 +1,2 @@
-# tutotial
+# tutorial
 テスト用だよ～うねうね～
